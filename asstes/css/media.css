@@ -1,0 +1,36 @@
+@media (max-width:1160px){
+    .resume .skill img{
+        width: 100%;
+    }}
+@media (max-width:991px){
+    .nav-item{
+        width: fit-content;
+    }}
+@media (max-width:768px){
+   .about .count {
+    border: none !important;
+   }
+   .dawnload-resume .brand{
+    justify-content: center !important;
+    padding-top: 2rem;
+   }
+   .dawnload-resume .dawnload{
+    text-align: center;
+   }}
+@media (max-width:568px){
+    .header {
+        background-position-x: -235px;
+    }
+    .header-content {
+        align-items: start !important;}
+    h1{
+        font-size: 45px !important;}
+    .contact p, .contact form{
+        width: 100% !important;
+    }
+    .map .information {
+        margin-left: 1rem;
+    } 
+}
+
+
